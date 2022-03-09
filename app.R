@@ -122,6 +122,14 @@ feature_mapping <- function(label, value) {
     list(label = label, value = value)
 }
 
+data_type_labels <- c("Linear", "Log")
+
+data_type_values <- c("identity", "log")
+
+data_type_mapping <- function(label, value) {
+    list(label = label, value = value)
+}
+
 # feature dropdown
 feature_dropdown = dccDropdown(
     id = "feature-dropdown",
