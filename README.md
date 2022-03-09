@@ -2,4 +2,4 @@
 
 A demo dash app written in R
 
-You can experience the app deployed on Heroku [here](https://dsci532-2022-ia2-klv2.herokuapp.com/).
+You can experience the app deployed on Heroku [here](https://dsci532-2022-ia2-klv.herokuapp.com/).
